@@ -1,0 +1,9 @@
+Na ulici stoji lupicova skodovka s otevrenym kufrem.
+
+1. Vydas se k autu
+
+K autu (auto.txt)
+
+2. Bezis po chodniku k sousedum
+
+K sousedum (sousedi.txt)
